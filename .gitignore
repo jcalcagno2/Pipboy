@@ -1,0 +1,28 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon? files are created by the Finder for custom folder icons
+Icon?
+
+# Thumbnails
+._*
+
+# Temporary and system-generated files
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.fseventsd
+
+# macOS QuickLook metadata files
+*.qlgenerator
+*.QTPlugin
+
+# macOS disk image metadata files
+.DS_Store?
+._.DS_Store?
+
+# Logs and temporary macOS files
+*.log
+*.tmp
