@@ -1,3 +1,18 @@
+body {
+    color: #14fe17;
+    background: #272b23;
+}
+
+ul > li.nav-item > a.nav-link, ul > li.navbar-item.active > a.nav-link {
+    color: #14fe17 !important;
+}
+
+.navbar {
+    background-color: #272b23 !important; /* Same background color for navbar */
+   
+}
+
+
 .center-image img {
     margin: auto;
     display: block;
