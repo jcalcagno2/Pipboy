@@ -95,6 +95,11 @@ ul > li.nav-item > a.nav-link, ul > li.navbar-item.active > a.nav-link {
     color: #14fe17 !important;
 }
 
+.center-image {
+    position: absolute;
+    margin: auto;
+    width: 100%;
+}
 
 .center-image img {
     margin: auto;
@@ -174,4 +179,14 @@ ul > li.nav-item > a.nav-link, ul > li.navbar-item.active > a.nav-link {
 .navbar.pip-footer .col-6 {
     margin: 0px 5px;
     flex: 0 0 48%;
+}
+
+.stat-bar {
+    width: 60px;
+    margin: auto;
+}
+
+#status {
+    max-width: 400px;
+    margin: auto;
 }
